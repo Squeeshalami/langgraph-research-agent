@@ -37,7 +37,7 @@ The system is built using a LangGraph workflow with the following components:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/langgraph-research-agent.git
+   git clone https://github.com/Squeeshalami/langgraph-research-agent.git
    cd langgraph-research-agent
    ```
 
