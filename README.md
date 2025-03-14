@@ -54,7 +54,7 @@ The system is built using a LangGraph workflow with the following components:
 
 4. Set up your environment variables:
    - Create a `.env` file in the project root (or modify the existing one)
-   - Add your Tavily API key:
+   - Add your Tavily API key: https://tavily.com/
      ```
      TAVILY_API_KEY="your-tavily-api-key"
      ```
